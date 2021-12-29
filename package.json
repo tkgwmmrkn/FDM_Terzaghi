@@ -1,0 +1,16 @@
+{
+  "name": "comp_geo_eng_report_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.5",
+    "lil-gui": "^0.15.0",
+    "plotly.js-dist-min": "^2.8.3"
+  }
+}
