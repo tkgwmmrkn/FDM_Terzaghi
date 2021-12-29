@@ -7,7 +7,7 @@
 4. `npm run start`
 
 ### GUIの説明
-![GUIの説明](2021-12-30_00h11_32.png)
+![GUIの説明](img/2021-12-30_00h11_32.png)
 
 ### 用いたライブラリ・フレームワーク
 * [Node.js](https://nodejs.org/en/)
