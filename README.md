@@ -2,7 +2,7 @@
 
 ### コードを実行する手順
 1. [node jsをインストール](https://nodejs.org/en/)
-2. このプログラムをダウンロード
+2. このプログラムをダウンロード (緑ボタン\[Code ▼\]よりDownload ZIP)
 3. 展開したフォルダでコマンドを開き`npm install`
 4. `npm run start`
 
